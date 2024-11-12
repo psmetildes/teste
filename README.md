@@ -38,5 +38,5 @@ Recentemente, atuei como em ambientes críticos Kubernetes, prestando suporte na
 ## Estatísticas do GitHub
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psmetildes&theme=transparent&bg_color=000&border_color=7FFF00&show_icons=true&icon_color=39FF14&title_color=39FF14&text_color=39FF14) [![GitHub Streak](https://streak-stats.demolab.com?user=psmetildes&theme=chartreuse-dark&background=000&border=7FFF00&dates=39FF14)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psmetildes&theme=transparent&bg_color=000&border_color=7FFF00&show_icons=true&icon_color=39FF14&title_color=39FF14&text_color=39FF14) ![GitHub Streak](https://streak-stats.demolab.com?user=psmetildes&theme=chartreuse-dark&background=000&border=7FFF00&dates=39FF14)](https://git.io/streak-stats)
 <p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=psmetildes&bg_color=000&border_color=39FF14&title_color=39FF14&text_color=39FF14" alt="Top Langs"> </p>
